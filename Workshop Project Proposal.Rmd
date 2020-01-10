@@ -10,9 +10,9 @@ output: html_document
 The purpose of this research is to study the ecologcial interactions between marine macroalgae and small invertebrate epifauna.  This is important for the universe. 
 
 # Objectives
-1. Collect samples
-2. Identify samples
-3. Analyze the data. 
+1. Collect samples of macroalgae and invertebrate epifauna.
+2. Identify the macroalgae and invertebrate epifauna to lowest possible taxonomic level.
+3. Correlate the environmental and spatiotemporal parameters with the diversity of macroalgae, the invertebrate epifauna, and their associations.  
 
 # Hypotheses
 1. ABC
