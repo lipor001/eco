@@ -7,7 +7,7 @@ output: html_document
 
 # Research Statement
 
-The purpose of this research is to study the ecologcial interactions between marine macroalgae and small invertebrate epifauna. 
+The purpose of this research is to study the ecologcial interactions between marine macroalgae and small invertebrate epifauna.  This is important for the universe. 
 
 # Objectives
 1. Collect samples
